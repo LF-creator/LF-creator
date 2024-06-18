@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm LF-creator</h1>
 <h3 align="center">A passionate frontend developer from Sweden</h3>
 
-- 🔭 I’m currently working on **EasyScan**
+- 🔭 I’m currently working on **EasyScan and My-Calendar**
 
-- 👯 I’m looking to collaborate on **New exciting project**
+-  I’m looking to collaborate on **New exciting project**
 - 
 
 <h3 align="left">Connect with me:</h3>

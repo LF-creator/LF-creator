@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm LF-creator</h1>
-<h3 align="center">A passionate frontend developer from Sweden</h3>
+<h3 align="center">Im a frontend developer from Sweden</h3>
 
-- 🔭 I’m currently working on **EasyScan and My-Calendar**
+- 🔭 I’m currently working on **LF-portfolio**
+- https://lf-creator.github.io/LF-portfolio/
 
 -  I’m looking to collaborate on **New exciting project**
-- 
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,4 +16,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lf-creator&show_icons=true&locale=en&layout=compact" alt="lf-creator" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lf-creator&show_icons=true&locale=en" alt="lf-creator" /></p>
+

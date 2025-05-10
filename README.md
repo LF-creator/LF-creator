@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm LF-creator</h1>
-<h3 align="center">Im a frontend developer from Sweden</h3>
+<h3 align="center">Frontend-developer from Sweden</h3>
 
 - 🔭 I’m currently working on **LF-portfolio**
 - https://lf-creator.github.io/LF-portfolio/

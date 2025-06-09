@@ -6,7 +6,7 @@
   
 
 -  I’m looking to collaborate on **New exciting project**
--  I currently updating my old projects! :D
+-  I currently working on a dashboard project!
 
 -  - -
   
